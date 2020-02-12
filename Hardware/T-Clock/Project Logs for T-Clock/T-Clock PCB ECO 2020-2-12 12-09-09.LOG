@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_Dev Member=M?
+Added Component: Designator=DS1(ENHOB000130IB)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mediafire.com/file/zsigmwybxvnxqls/ENH-OB000130IB.pdf/file"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Enrich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ENH-OB000130IB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Dev Member=Component DS1 ENH-OB000130IB
