@@ -9,11 +9,11 @@
 const char* ssid     = "power";
 const char* password = "55555555";
 //==========目标服务器网址和端口==============//
-const char* host = "api.seniverse.com";  //api.seniverse.com
+const char* host = "api.seniverse.com";  
 const uint16_t port = 80 ;
 //===============地区设置===================//
 String City = "汕头";//城市
-String My_Key = "S_iTqDZOILpZdLBZS";//禁止泄露
+String My_Key = "S_iTqDZOILpZdLBZS";//修改为你自己的
 //===============OLED引脚===================//
 
 #define OLED_RESET -1
